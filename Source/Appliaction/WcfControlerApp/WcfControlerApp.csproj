@@ -34,8 +34,30 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.Expression.Controls">
+      <HintPath>..\..\..\Product\Libs\Microsoft.Expression.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Expression.Drawing">
+      <HintPath>..\..\..\Product\Libs\Microsoft.Expression.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Expression.Effects">
+      <HintPath>..\..\..\Product\Libs\Microsoft.Expression.Effects.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Expression.Interactions">
+      <HintPath>..\..\..\Product\Libs\Microsoft.Expression.Interactions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\..\..\Product\Libs\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Windows.Shell">
+      <HintPath>..\..\..\Product\Libs\Microsoft.Windows.Shell.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Interactivity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Product\Libs\System.Windows.Interactivity.dll</HintPath>
+    </Reference>
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -99,6 +121,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\WpfProgram\Source\Base\HeBianGu.Base.Util\HeBianGu.Base.Util.csproj">
+      <Project>{06ffa263-bffa-45df-8e59-dc8fbe0b3007}</Project>
+      <Name>HeBianGu.Base.Util</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\WpfProgram\Source\Base\HeBianGu.Base.WpfBase\HeBianGu.Base.WpfBase.csproj">
+      <Project>{435feb82-599f-48e3-8891-755acf8e4117}</Project>
+      <Name>HeBianGu.Base.WpfBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\WpfProgram\Source\General\HeBianGu.General.Logger\HeBianGu.General.Logger.csproj">
+      <Project>{a51ad5cf-bbaa-4e6e-a671-60f79a80f4c5}</Project>
+      <Name>HeBianGu.General.Logger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\WpfProgram\Source\General\HeBianGu.General.WpfControlLib\HeBianGu.General.WpfControlLib.csproj">
+      <Project>{b49dc15f-b43c-4306-adf4-8fa6f5df7f84}</Project>
+      <Name>HeBianGu.General.WpfControlLib</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

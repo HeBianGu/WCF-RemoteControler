@@ -1,0 +1,6 @@
+F:\GitHub\WcfControlerProgram\Product\Debug\WcfControlerHost.ConsoleApp.exe.config
+F:\GitHub\WcfControlerProgram\Product\Debug\WcfControlerHost.ConsoleApp.exe
+F:\GitHub\WcfControlerProgram\Product\Debug\WcfControlerHost.ConsoleApp.pdb
+F:\GitHub\WcfControlerProgram\Source\Appliaction\WcfControlerHost.ConsoleApp\obj\Debug\WcfControlerHost.ConsoleApp.exe
+F:\GitHub\WcfControlerProgram\Source\Appliaction\WcfControlerHost.ConsoleApp\obj\Debug\WcfControlerHost.ConsoleApp.pdb
+F:\GitHub\WcfControlerProgram\Source\Appliaction\WcfControlerHost.ConsoleApp\obj\Debug\WcfControlerHost.ConsoleApp.csprojResolveAssemblyReference.cache

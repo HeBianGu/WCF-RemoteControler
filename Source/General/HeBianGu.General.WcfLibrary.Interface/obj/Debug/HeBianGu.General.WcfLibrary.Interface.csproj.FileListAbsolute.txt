@@ -1,0 +1,4 @@
+F:\GitHub\WcfControlerProgram\Product\Debug\HeBianGu.General.WcfLibrary.Interface.dll
+F:\GitHub\WcfControlerProgram\Product\Debug\HeBianGu.General.WcfLibrary.Interface.pdb
+F:\GitHub\WcfControlerProgram\Source\General\HeBianGu.General.WcfLibrary.Interface\obj\Debug\HeBianGu.General.WcfLibrary.Interface.dll
+F:\GitHub\WcfControlerProgram\Source\General\HeBianGu.General.WcfLibrary.Interface\obj\Debug\HeBianGu.General.WcfLibrary.Interface.pdb

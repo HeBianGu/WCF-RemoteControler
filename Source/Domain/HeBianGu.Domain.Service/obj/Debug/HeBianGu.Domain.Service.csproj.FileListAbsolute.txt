@@ -1,0 +1,16 @@
+F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\bin\Debug\HeBianGu.Domain.Service.dll
+F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\bin\Debug\HeBianGu.Domain.Service.pdb
+F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\bin\Debug\HeBianGu.Base.WcfManager.dll
+F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\bin\Debug\HeBianGu.Domian.Factory.dll
+F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\bin\Debug\HeBianGu.General.WcfLibrary.Interface.dll
+F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\bin\Debug\HeBianGu.General.WcfLibrary.Service.dll
+F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\bin\Debug\HeBianGu.Base.WinService.dll
+F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\bin\Debug\HeBianGu.Base.WcfManager.pdb
+F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\bin\Debug\HeBianGu.Domian.Factory.pdb
+F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\bin\Debug\HeBianGu.General.WcfLibrary.Interface.pdb
+F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\bin\Debug\HeBianGu.General.WcfLibrary.Service.pdb
+F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\bin\Debug\HeBianGu.General.WcfLibrary.Service.dll.config
+F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\bin\Debug\HeBianGu.Base.WinService.pdb
+F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\obj\Debug\HeBianGu.Domain.Service.csprojResolveAssemblyReference.cache
+F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\obj\Debug\HeBianGu.Domain.Service.dll
+F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\obj\Debug\HeBianGu.Domain.Service.pdb

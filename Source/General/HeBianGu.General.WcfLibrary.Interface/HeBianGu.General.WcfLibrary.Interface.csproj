@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ISystemBrowserService.cs" />
     <Compile Include="IWorkScreamService.cs" />
     <Compile Include="IStreamPrivider.cs" />
     <Compile Include="IImageSenderService.cs" />

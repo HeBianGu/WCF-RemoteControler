@@ -14,3 +14,5 @@ F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\bin\Debug\He
 F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\obj\Debug\HeBianGu.Domain.Service.csprojResolveAssemblyReference.cache
 F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\obj\Debug\HeBianGu.Domain.Service.dll
 F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\obj\Debug\HeBianGu.Domain.Service.pdb
+F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\bin\Debug\HeBianGu.General.WcfLibrary.Client.dll
+F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domain.Service\bin\Debug\HeBianGu.General.WcfLibrary.Client.pdb

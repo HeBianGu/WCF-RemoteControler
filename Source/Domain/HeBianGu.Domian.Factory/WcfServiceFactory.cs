@@ -44,5 +44,15 @@ namespace HeBianGu.Domian.Factory
         }
 
 
+        /// <summary> 构建远程控制器服务 </summary>
+        public Dictionary<Type, Type> CreateBrowserService()
+        {
+            Dictionary<Type, Type> serviceTypes = new Dictionary<Type, Type>();
+
+            serviceTypes.Add(typeof(ISystemBrowserService), typeof(SystemBrowserService));
+
+            return serviceTypes;
+        }
+
     }
 }

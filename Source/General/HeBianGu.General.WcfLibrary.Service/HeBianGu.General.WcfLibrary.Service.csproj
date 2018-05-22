@@ -46,6 +46,7 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SystemBrowser\SystemBrowserService.cs" />
     <Compile Include="SystemSerivce\ExcuteService.cs" />
     <Compile Include="SystemSerivce\ExcuteClientService.cs" />
     <Compile Include="FileService\FileTransferService.cs" />

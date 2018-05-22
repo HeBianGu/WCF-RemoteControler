@@ -49,6 +49,10 @@
       <Project>{6D701B37-2287-4AC8-B984-8FF1F950EBDC}</Project>
       <Name>HeBianGu.Base.WcfManager</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\General\HeBianGu.General.WcfLibrary.Client\HeBianGu.General.WcfLibrary.Client.csproj">
+      <Project>{6AB5CE3D-2DCE-46E7-ACA3-6EFF488D19D5}</Project>
+      <Name>HeBianGu.General.WcfLibrary.Client</Name>
+    </ProjectReference>
     <ProjectReference Include="..\HeBianGu.Domian.Factory\HeBianGu.Domian.Factory.csproj">
       <Project>{94123C2E-470F-4CB2-A078-93C2E7BA0951}</Project>
       <Name>HeBianGu.Domian.Factory</Name>

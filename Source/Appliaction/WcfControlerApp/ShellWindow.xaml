@@ -1,12 +1,14 @@
-﻿<Window x:Class="WcfControlerApp.ShellWindow"
+﻿<wpfcontrollib:WindowBase x:Class="WcfControlerApp.ShellWindow"
+        xmlns:wpfcontrollib="clr-namespace:HeBianGu.General.WpfControlLib;assembly=HeBianGu.General.WpfControlLib"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WcfControlerApp"
-        mc:Ignorable="d"
-        Title="ShellWindow" Height="300" Width="300">
+                          xmlns:browsermodule="clr-namespace:HeBianGu.Module.WcfControler.BrowserModule;assembly=HeBianGu.Module.WcfControler.BrowserModule"
+                          mc:Ignorable="d" Style="{StaticResource ResourceKey=DefaultWindowStyle}" 
+        Title="ShellWindow" Height="600" Width="1000">
     <Grid>
-        
+        <browsermodule:BrowserUserControl/>
     </Grid>
-</Window>
+</wpfcontrollib:WindowBase>

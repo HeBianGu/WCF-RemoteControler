@@ -34,7 +34,7 @@ namespace HeBianGu.Domain.Service
         public void Start()
         {
 
-            Dictionary<Type, Type> dic = WcfServiceFactory.Instance.CreateMonitorService();
+            Dictionary<Type, Type> dic = WcfServiceFactory.Instance.CreateBrowserService();
          
             WcfRegisterProvider.Instance.AddService(dic);
         }

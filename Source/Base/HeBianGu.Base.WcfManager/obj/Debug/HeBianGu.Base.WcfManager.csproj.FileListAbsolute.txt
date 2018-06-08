@@ -1,4 +1,0 @@
-F:\GitHub\WcfControlerProgram\Product\Debug\HeBianGu.Base.WcfManager.dll
-F:\GitHub\WcfControlerProgram\Product\Debug\HeBianGu.Base.WcfManager.pdb
-F:\GitHub\WcfControlerProgram\Source\Base\HeBianGu.Base.WcfManager\obj\Debug\HeBianGu.Base.WcfManager.dll
-F:\GitHub\WcfControlerProgram\Source\Base\HeBianGu.Base.WcfManager\obj\Debug\HeBianGu.Base.WcfManager.pdb

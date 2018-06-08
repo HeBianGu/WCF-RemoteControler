@@ -1,5 +1,0 @@
-F:\GitHub\WcfControlerProgram\Product\Debug\HeBianGu.Base.WinService.dll
-F:\GitHub\WcfControlerProgram\Product\Debug\HeBianGu.Base.WinService.pdb
-F:\GitHub\WcfControlerProgram\Source\Base\HeBianGu.Base.WinService\obj\Debug\HeBianGu.Base.WinService.dll
-F:\GitHub\WcfControlerProgram\Source\Base\HeBianGu.Base.WinService\obj\Debug\HeBianGu.Base.WinService.pdb
-F:\GitHub\WcfControlerProgram\Source\Base\HeBianGu.Base.WinService\obj\Debug\HeBianGu.Base.WinService.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-F:\GitHub\WcfControlerProgram\Product\Debug\HeBianGu.General.WcfLibrary.Client.dll
-F:\GitHub\WcfControlerProgram\Product\Debug\HeBianGu.General.WcfLibrary.Client.pdb
-F:\GitHub\WcfControlerProgram\Source\General\HeBianGu.General.WcfLibrary.Client\obj\Debug\HeBianGu.General.WcfLibrary.Client.csprojResolveAssemblyReference.cache
-F:\GitHub\WcfControlerProgram\Source\General\HeBianGu.General.WcfLibrary.Client\obj\Debug\HeBianGu.General.WcfLibrary.Client.dll
-F:\GitHub\WcfControlerProgram\Source\General\HeBianGu.General.WcfLibrary.Client\obj\Debug\HeBianGu.General.WcfLibrary.Client.pdb

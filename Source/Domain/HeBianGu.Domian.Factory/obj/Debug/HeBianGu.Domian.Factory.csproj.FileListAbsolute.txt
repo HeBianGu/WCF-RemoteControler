@@ -1,5 +1,0 @@
-F:\GitHub\WcfControlerProgram\Product\Debug\HeBianGu.Domian.Factory.dll
-F:\GitHub\WcfControlerProgram\Product\Debug\HeBianGu.Domian.Factory.pdb
-F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domian.Factory\obj\Debug\HeBianGu.Domian.Factory.dll
-F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domian.Factory\obj\Debug\HeBianGu.Domian.Factory.pdb
-F:\GitHub\WcfControlerProgram\Source\Domain\HeBianGu.Domian.Factory\obj\Debug\HeBianGu.Domian.Factory.csprojResolveAssemblyReference.cache

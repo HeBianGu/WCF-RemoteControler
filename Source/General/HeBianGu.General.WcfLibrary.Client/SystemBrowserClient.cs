@@ -55,6 +55,27 @@ namespace HeBianGu.General.WcfLibrary.Client
             }
         }
 
+        //private BasicHttpBinding _wsHttpBinding;
+        ///// <summary> 说明 </summary>
+        //public BasicHttpBinding WSHttpBinding
+        //{
+        //    get
+        //    {
+        //        if (_wsHttpBinding == null)
+        //        {
+        //            _wsHttpBinding = new BasicHttpBinding();
+        //            _wsHttpBinding.MaxBufferPoolSize = int.MaxValue;
+        //            _wsHttpBinding.MaxReceivedMessageSize = int.MaxValue;
+        //            _wsHttpBinding.ReceiveTimeout = new TimeSpan(1, 0, 0);
+        //            _wsHttpBinding.Security = new System.ServiceModel.BasicHttpSecurity();
+        //            _wsHttpBinding.Security.Mode = BasicHttpSecurityMode.None;
+        //        }
+        //        return _wsHttpBinding;
+        //    }
+        //}
+
+        
+
         /// <summary> 地址 </summary>
         public string ExcuteServiceAddress
         {

@@ -18,6 +18,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.ServiceModel;
+using System.ServiceModel.Web;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -27,9 +28,9 @@ namespace HeBianGu.General.WcfLibrary.Interface
     public interface ISystemBrowserService
     {
         [OperationContract]
-         List<string> GetDrivers();
+        List<string> GetDrivers();
         [OperationContract]
-         List<string> GetFolder(string parent);
+        List<string> GetFolder(string parent);
         [OperationContract]
          List<string> GetFiles(string folder);
     }
